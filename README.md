@@ -1,0 +1,2 @@
+# UbuntuSetupSemiAutoScript
+Ubuntuのセットアップを半自動化するスクリプト
